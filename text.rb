@@ -1,1 +1,1 @@
-p "Hello World!"
+5.times {p "Hello World!"}
